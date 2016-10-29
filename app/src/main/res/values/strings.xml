@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ingressos</string>
+    <string name="app_nome">Nome: </string>
+    <string name="app_idade">Idade: </string>
+    <string name="app_modal">Modalidade: </string>
+    <string name="app_periodo">Período: </string>
+    <string name="app_manha">Manhã (9h - 12h)</string>
+    <string name="app_tarde">Tarde (13h - 18h)</string>
+    <string name="app_noite">Noite (18h - 23h)</string>
+    <string name="app_confirmacao">Confirmação</string>
+    <string name="app_confirma">Confirmar</string>
+    <string name="app_reservar">Reservar</string>
+    <string name="app_ok">OK</string>
+    <string name="app_validacao_nome">Informe um nome</string>
+    <string name="app_validacao_idade">Informe a Idade</string>
+    <string name="app_validacao_periodo">Informe o Período</string>
+    <string name="app_validacao_modalidade">Informe a modalidade</string>
+
+    <string-array name="app_modalidades">
+            <item>--Selecione--</item>
+            <item>Natação</item>
+            <item>Futebol</item>
+            <item>Ginástica</item>
+    </string-array>
+</resources>
